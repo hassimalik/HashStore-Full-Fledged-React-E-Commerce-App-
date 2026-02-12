@@ -1,0 +1,28 @@
+@import 'tailwindcss';
+
+/* Adjusting Size of User Profile Avatar */
+
+.cl-avatarBox{
+    width: 2rem;
+    height: 2rem;
+}
+
+.arrows{
+    height: 40px;
+    width: 40px;
+    margin: 1px;
+}
+
+.animate-image {
+  will-change: transform, opacity;
+  transform: translateZ(0);          /* GPU acceleration force */
+  backface-visibility: hidden;       /* بعض browsers میں flicker کم کرتا ہے */
+}
+
+.animate-image-container {
+  will-change: transform;
+}
+
+.w-70 { width: 280px; }   /* اگر tailwind میں نہیں تو */
+.h-90 { height: 360px; }
+.h-50 { height: 200px; }
