@@ -34,22 +34,23 @@ HashStore is a **full-fledged e-commerce web application** built with **React**,
 
 ---
 
+## ScreenShots
+
+
+--- <img width="1898" height="994" alt="image" src="https://github.com/user-attachments/assets/2cba39ca-5b23-4938-8bc4-7d08f292efb8" />
+
+---  <img width="1898" height="971" alt="image" src="https://github.com/user-attachments/assets/3e2e5493-71ba-455f-b2b2-eead90f0b41a" />
+
+
+
+
+
 ## Installation & Setup
 1. Clone the repository:
 ```bash
 git clone https://github.com/hassimalik/HashStore-Full-Fledged-React-E-Commerce-App-.git
 
 ```
-Ecommerce/
-├─ public/
-├─ src/
-│  ├─ components/      # All React components (Carousel, Navbar, Footer, etc.)
-│  ├─ context/         # Context API files for theme & data
-│  ├─ pages/           # Shipping, Returns, Order Tracking, Size Guide, FAQs
-│  ├─ assets/          # Images, icons, fonts
-│  └─ App.jsx
-├─ package.json
-└─ README.md
 
 ## Contact 
 Developer : Hassaan Aslam
